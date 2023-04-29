@@ -2,11 +2,7 @@
 
 body {
   align-items: center;
-  background: linear-gradient(
-    90deg,
-    rgb(196, 167, 251) 0%,
-    rgb(139, 102, 241) 100%
-  );
+  background: linear-gradient(90deg, rgb(196, 167, 251) 0%, rgb(139, 102, 241) 100%);
   display: flex;
   font-family: "Open Sans", sans-serif;
   height: 100vh;
